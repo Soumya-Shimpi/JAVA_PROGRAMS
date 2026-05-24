@@ -1,0 +1,26 @@
+public class PalindromeString
+{
+    public static void main(String [] args)
+    {
+       int rem,sum=0,no
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter a no to check Palindrome or not");
+        no=sc.nextInt();
+
+        while(no !=0)
+        {
+            rem = no %10;
+            sum=sum*10+rem;
+            no = no/10;
+            System.out.println(sum);
+            if(no == sum)
+            {
+                System.out.println("No. is palindrome")
+            }
+            else{
+                System.out.println("Not Palindrome");
+            }
+        }
+
+    }
+}
