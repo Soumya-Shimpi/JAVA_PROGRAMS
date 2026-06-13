@@ -32,3 +32,5 @@ The main purpose of this repository is to:
 - Palindrome Number
 - Reverse a Number
 - Palindrome Number
+- Do-While Reverse Number
+- Perimeter Calculator
