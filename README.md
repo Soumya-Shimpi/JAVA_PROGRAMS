@@ -35,3 +35,5 @@ The main purpose of this repository is to:
 - Palindrome Number
 - Do-While Reverse Number
 - Perimeter Calculator
+- Sum of Elements in Array
+- Array Palindrome
