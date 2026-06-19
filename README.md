@@ -8,6 +8,7 @@ The programs included here cover:
 - Conditional Statements
 - Loops
 - String Handling
+- Array Programs
 
 
 ## Repository Purpose
