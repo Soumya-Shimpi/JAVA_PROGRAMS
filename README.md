@@ -9,6 +9,7 @@ The programs included here cover:
 - Loops
 - String Handling
 - Array Programs
+- Interface Programs
 
 
 ## Repository Purpose
@@ -38,3 +39,4 @@ The main purpose of this repository is to:
 - Sum of Elements in Array
 - Array Palindrome
 - Overring And Super
+- Interface Program
