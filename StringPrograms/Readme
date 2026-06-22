@@ -1,0 +1,92 @@
+# Java String Programs
+
+## 📌 Project Overview
+
+This repository contains various Java programs based on **String manipulation and operations**. These programs help beginners understand how strings work in Java and improve problem-solving skills using built-in String methods.
+
+## 📂 Programs Included
+
+* Reverse a String
+* Check Palindrome String
+
+
+## 🛠 Technologies Used
+
+* Java
+* Object-Oriented Programming (OOP)
+* String Class Methods
+
+## 🚀 Concepts Covered
+
+### String Methods
+
+* `length()`
+* `charAt()`
+* `substring()`
+* `equals()`
+* `equalsIgnoreCase()`
+* `compareTo()`
+* `contains()`
+* `replace()`
+* `toUpperCase()`
+* `toLowerCase()`
+* `trim()`
+* `split()`
+
+## ▶️ Sample Program
+
+### Reverse a String
+
+```java
+public class ReverseString {
+    public static void main(String[] args) {
+        String str = "Java";
+        String reverse = "";
+
+        for(int i = str.length()-1; i >= 0; i--) {
+            reverse += str.charAt(i);
+        }
+
+        System.out.println("Reversed String: " + reverse);
+    }
+}
+```
+
+### Output
+
+```text
+Reversed String: avaJ
+```
+
+## 🎯 Learning Outcomes
+
+By completing these programs, you will learn:
+
+* String handling in Java
+* String manipulation techniques
+* Usage of String methods
+* Problem-solving using loops and conditions
+* Working with StringBuffer and StringBuilder
+* Interview-oriented String programming questions
+
+## 📖 Prerequisites
+
+* Basic Java knowledge
+* Understanding of loops and conditional statements
+* JDK 8 or above installed
+
+
+## 📚 Topics for Practice
+
+* String Reversal
+* Palindrome Check
+* Anagram Check
+* Character Frequency
+* String Compression
+* Duplicate Character Detection
+* Word Counting
+* Pattern Searching
+
+## 👨‍💻 Author
+
+This repository is created for practicing and mastering **String Programming in Java**, commonly asked in academic exams, coding tests, and technical interviews.
