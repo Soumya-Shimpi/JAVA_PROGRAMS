@@ -40,3 +40,4 @@ The main purpose of this repository is to:
 - Array Palindrome
 - Overring And Super
 - Interface Program
+- Collection Framework(List, Set, Map)
